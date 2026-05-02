@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Hi from new  branch newFeature</Text>
+      <Text>Hi from A</Text>
       <StatusBar style="auto" />
     </View>
   );
